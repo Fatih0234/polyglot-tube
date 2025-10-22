@@ -1,0 +1,5 @@
+{
+  "name": "Polyglot Tube",
+  "description": "An application that helps language learners improve their skills by watching YouTube videos. It provides AI-generated vocabulary lists, comprehension quizzes, and summaries based on the video's transcript.",
+  "requestFramePermissions": []
+}
